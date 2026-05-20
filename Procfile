@@ -1,1 +1,1 @@
-web: python mian.py
+web: python bot.py
