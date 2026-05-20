@@ -576,7 +576,7 @@ Dev! : @B11HB''')
                     bot.send_message(call.from_user.id, msg, parse_mode="HTML")
                 else:
                     basl +=1
-                time.sleep(14)
+                time.sleep(5)
 
         bot.edit_message_text(
             chat_id=call.message.chat.id, 
